@@ -1,0 +1,44 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/best-ever-burger-index-646e5ae887b2b.jpg?crop=0.566xw:1.00xh;0.210xw,0&resize=1200:*",
+      "price": 689,
+      "title": "Мясная бомба 1",
+      "weight": "520",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/best-ever-burger-index-646e5ae887b2b.jpg?crop=0.566xw:1.00xh;0.210xw,0&resize=1200:*",
+      "price": 689,
+      "title": "Мясная бомба 2",
+      "weight": "520",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/best-ever-burger-index-646e5ae887b2b.jpg?crop=0.566xw:1.00xh;0.210xw,0&resize=1200:*",
+      "price": 689,
+      "title": "Мясная бомба 3",
+      "weight": "520",
+      "categoryId": "1"
+    },
+    {
+      "id": 4,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/best-ever-burger-index-646e5ae887b2b.jpg?crop=0.566xw:1.00xh;0.210xw,0&resize=1200:*",
+      "price": 689,
+      "title": "Мясная бомба 4",
+      "weight": "520",
+      "categoryId": "2"
+    },
+    {
+      "id": 5,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/best-ever-burger-index-646e5ae887b2b.jpg?crop=0.566xw:1.00xh;0.210xw,0&resize=1200:*",
+      "price": 689,
+      "title": "Мясная бомба 5",
+      "weight": "520",
+      "categoryId": "1"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+.main {
+  padding: 40px 0 100px 0;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 936px;
+  padding-top: 50px;
+  grid-gap: 30px;
+  align-items: start;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+
+.item {
+  width: 255px;
+  height: 411px;
+  text-align: left;
+  border-radius: 18px;
+  background: #fff;
+  padding: 12px;
+  position: relative;
+  z-index: 1;
+  bottom: -5px;
+  transition: 0.5s;
+}
+
+.item:hover {
+  bottom: 0;
+  transition: 0.7s;
+}
+
+.item img {
+  border-radius: 18px;
+}
+
+.modal {
+  border-radius: 20px;
+}
+
+.item h4 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 100%;
+  padding-top: 16px;
+}
+
+.item h5 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 130%;
+  padding-top: 8px;
+}
+
+.item h6 {
+  padding-top: 29px;
+  color: #b1b1b1;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 130%;
+}
+
+.item button {
+  margin-top: 24px;
+  border-radius: 12px;
+  background: #f2f2f3;
+  width: 250px;
+  height: 40px;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.modal h3 {
+  color: #000;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 120%;
+  padding-bottom: 24px;
+}
+
+.quantity {
+  border-radius: 12px;
+  background: #f2f2f3;
+  width: 84px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.quantity button {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.quantity p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.inside {
+  display: grid;
+  grid-template-columns: 276px 344px;
+  grid-gap: 16px;
+}
+
+.description p {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 130%;
+}
+
+.bottom {
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bottom span{
+  display: flex;
+}
+
+.add {
+  border-radius: 12px;
+  background: #ff7020;
+  width: 276px;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%; 
+  margin-right: 16px;
+}

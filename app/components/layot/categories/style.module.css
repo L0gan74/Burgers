@@ -1,0 +1,23 @@
+.category {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+
+.category button {
+  width: 96px;
+  height: 40px;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 50px;
+  background: #fff;
+  transition: 0.5s;
+}
+
+.category button:hover {
+  box-shadow: 0px 0px 10px #ffab08;
+  transition: 0.5s;
+}
